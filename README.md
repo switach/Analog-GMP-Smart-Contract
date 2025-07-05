@@ -1,1 +1,1 @@
-analog GMP
+qdqanalog GMP
